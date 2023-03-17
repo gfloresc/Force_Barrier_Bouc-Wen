@@ -2,7 +2,7 @@
 Supplementary material for the paper: Classical Bouc-Wen hysteresis modeling and force control of a piezoelectric robotic hand manipulating deformable object
 
 This repository includes the MATLAB simulink files for the simulations results presented in the document
-<a href="https://github.com/gfloresc/Dahl_control/blob/main/Supplementary_material.pdf">Supplementary Material.pdf</a>
+<a href="https://github.com/gfloresc/Force_Barrier_Bouc-Wen/blob/f32e40e87fb22111ec52af9bcb28ef2be4a75526/CBW_Force.pdf">Supplementary Material.pdf</a>
 
 To cite this work please use:
 
