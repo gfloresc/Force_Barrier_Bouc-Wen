@@ -8,7 +8,7 @@ To cite this work please use:
 
 <pre>
   <code>
-@article{Dahl2022,
+@article{ForceBarrier:2023,
   author={Gerardo Flores and Micky Rakotondrabe},
   journal={IEEE Control Systems Letters},
   title={Classical Bouc-Wen hysteresis modeling and force control of a piezoelectric robotic hand manipulating deformable object}, 
